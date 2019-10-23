@@ -12,3 +12,16 @@ Python
 
 # Results
 The implementation was able to predict with an accuracy of 96.23%. However there will always be  some incorrect predictions as the network models or image clarity needs to be improved. After improving model the accuracy rate was improved to 99.8%.
+
+
+
+# References
+
+H. d. P. Kirill Eremenko and S. D. S. Team, “Deep learning a-z TM: Hands-on artificial
+neural networks.”
+
+Y. LeCun, L. Bottou, Y. Bengio, P. Haffner et al., “Gradient-based learning applied to
+document recognition,” Proceedings of the IEEE, vol. 86, no. 11, pp. 2278–2324, 1998.
+
+J. Brownlee, Deep learning with python: Develop deep learning models on Theano and
+TensorFlow using Kera's. Machine Learning Mastery, 2016.
