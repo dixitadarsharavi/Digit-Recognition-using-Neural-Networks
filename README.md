@@ -1,7 +1,10 @@
 # Digit-Recognition-using-Neural-Networks
 
-The goal of the project is to develop a neural network model which can identify the digit from an image. The algorithm of the model was built using Python programming language along with TensorFlow framework and Kera’s library. First the dataset required to train and test the model is obtained from MNIST, then the base model is built using Convolutional Neural Network (CNN). Lastly the training set and the
-test set is used to train and test the model respectively. The accuracy of the model is improved using evaluation techniques. The model was successful in achieving an accuracy rate of 99.5 percentage and was successful on a sample image.
+The goal of the project is to develop a neural network model which can identify the digit from an image. The algorithm of the model was built using Python programming language along with TensorFlow framework and Kera’s library. 
+First the dataset required to train and test the model is obtained from MNIST, 
+then the base model is built using Convolutional Neural Network (CNN).
+Lastly the training set and the test set is used to train and test the model respectively.
+The accuracy of the model is improved using evaluation techniques. The model was successful in achieving an accuracy rate of 99.5 percentage and was successful on a sample image.
 
 # Requirements
 MNIST Dataset
